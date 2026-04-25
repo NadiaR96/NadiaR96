@@ -40,6 +40,7 @@ Backend:
 - Python
 - Node.js
 -  PHP
+  
 Frontend:
 - React
 - Next.js
