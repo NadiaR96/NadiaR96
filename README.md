@@ -8,15 +8,20 @@ Systems Engineer building distributed backend systems and decision pipelines for
 - AI agent orchestration and RAG-based workflows
 - Backend services designed for reliability and real-world usage
 
-## Flagship Project
-### LLM Evaluation & Ranking Platform
-A multi-strategy evaluation system for comparing and selecting models under real-world constraints like cost, latency, and output quality.
+## 🚀 Flagship Systems & Automation Platforms
 
-- Scores model outputs across multiple dimensions  
-- Applies different strategies (balanced, cost-first, latency-first)  
-- Produces ranked recommendations rather than raw comparisons
+### 🛠️ Agentic GitOps Telemetry Harness | [Repository](https://github.com/NadiaR96/gitops-telemetry-harness)
+An autonomous, self-healing infrastructure automation platform built natively inside the Linux kernel to bridge event-driven network gates with generative AI remediation loops.
+*   **Polyglot Systems Plumbing**: Structured an asynchronous network ingress gateway in **Ruby 3.4** utilizing cryptographic token verification (`X-Hub-Signature-256`) and decoupled background process spawning (`Process.detach`) to eliminate inter-process subshell pipe deadlocks under peak traffic.
+*   **High-Velocity Data Streaming**: Compiled a performance-critical **Go machine binary** to execute microsecond-array parsing of repository configurations, streaming structured JSON error telemetry straight to native standard error (`stderr`) file descriptors.
+*   **Agentic Orchestration & GitOps Lifecycle**: Integrated advanced AI orchestration graphs in **Python 3.12** via the Google GenAI SDK, commanding **Gemini 3.5 Flash** models to write, test, and patch Terraform HCL code blocks on disk before executing automated, native Bash Git lifecycle tracking routines under conventional commit standards.
+*   **Defensive Test Matrix**: Fortified across all three application layers with dedicated multi-language unit test suites (**RSpec, Go Testing, Pytest**) validating cryptographic boundaries, data parsing streams, and exception fallbacks.
 
-  [LLM Evaluation & Ranking Platform](https://github.com/NadiaR96/llm-evaluation-platform)
+### 📊 LLM Evaluation Platform | [Repository](https://github.com/NadiaR96/llm-evaluation-platform)
+A multi-strategy evaluation framework designed to audit and benchmark large language model inference outputs against stringent enterprise constraints.
+*   **Production Quality Guardrails**: Architected automated pipelines to evaluate incoming model telemetry against performance matrices, tracking real-time latency thresholds, cost variations, and safety vector alignment.
+*   **Decoupled Async Pipelines**: Structured robust **AWS data pathways (Lambda, SQS, CloudWatch)** to handle high-frequency evaluation requests asynchronously, preventing transaction blockages across multi-tenant environments.
+*   **Structured Token Analysis**: Built custom feature extraction blocks to parse structural outputs, verify prompt template integrity, and enforce strict reliability metrics on production-grade RAG and AI agent workflows.
 
 ## Other Work
 - **Agent Orchestration & Evaluation Framework**  
