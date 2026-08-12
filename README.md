@@ -42,15 +42,10 @@ I tend to focus on systems where:
 ## Tech
 
 **Cloud & Infrastructure:**
-AWS (Lambda, SQS, CloudWatch, Lex, Connect) | DevOps (Terraform, env0, CI/CD)
+AWS (Lambda, SQS, CloudWatch, Lex, Connect) | DevOps (Terraform, env0, CDKTF, CI/CD)
 
 **Backend & Systems:**
-*   Python
-*   Go
-*   Ruby
-*   Node.js
-*   PHP
+Python | Go | Ruby | Node.js | PHP
 
-**Frontend & Telemetry UI:**
-React | Next.js | Streamlit
-
+**Frontend, Tooling & UI:**
+TypeScript | React | Next.js | Streamlit
