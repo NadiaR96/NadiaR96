@@ -40,15 +40,17 @@ I tend to focus on systems where:
 - the system is expected to run in production, not just as a demo
 
 ## Tech
-AWS (Lambda, SQS, CloudWatch, Lex, Connect)  
-Backend:
-- Python
-- Node.js
--  PHP
-  
-Frontend:
-- React
-- Next.js
-- Streamlit
-  
-DevOps (Terraform, CI/CD)
+
+**Cloud & Infrastructure:**
+AWS (Lambda, SQS, CloudWatch, Lex, Connect) | DevOps (Terraform, env0, CI/CD)
+
+**Backend & Systems:**
+*   Python
+*   Go
+*   Ruby
+*   Node.js
+*   PHP
+
+**Frontend & Telemetry UI:**
+React | Next.js | Streamlit
+
